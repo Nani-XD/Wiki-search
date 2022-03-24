@@ -1,6 +1,7 @@
 let searchInputEl = document.getElementById("searchInput");
 let searchResultEl = document.getElementById("searchResults");
 let spinnerEl = document.getElementById("spinner");
+console.log("hello")
 
 function createAndAppend(result) {
     // 1. Div Container -- result-item
