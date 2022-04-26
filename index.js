@@ -1,7 +1,7 @@
 let searchInputEl = document.getElementById("searchInput");
 let searchResultEl = document.getElementById("searchResults");
 let spinnerEl = document.getElementById("spinner");
-console.log("hello world")
+console.log("hello")
 
 
 
